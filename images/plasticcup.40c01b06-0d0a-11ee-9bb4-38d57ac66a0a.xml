@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plasticcup</folder>
+	<filename>plasticcup.40c01b06-0d0a-11ee-9bb4-38d57ac66a0a.jpg</filename>
+	<path>C:\Users\stepa\Tensorflow Object detection\TFODCourse\Tensorflow\workspace\images\collectedimages\plasticcup\plasticcup.40c01b06-0d0a-11ee-9bb4-38d57ac66a0a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plasticcup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>351</ymin>
+			<xmax>376</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
